@@ -4,7 +4,7 @@ import 'package:bicoin_ticker/data_tools/coin_data.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const apikey = "DCFE34A0-BF60-4D47-AA7C-D6FED906B141";
+const apikey = "coin api Key";
 const url = "https://rest.coinapi.io/v1/exchangerate";
 
 class Networking {
